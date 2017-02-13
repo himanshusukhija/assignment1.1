@@ -1,0 +1,15 @@
+1. Various sources of Big Data - Various sourcesof big data include data coming from social networking sites,transactional data,geographical data,
+historical data,banking related information,data coming from poc transactions etc.
+
+2. 3 V's of Big Data - Velocity-velocity defines the rate at which data is coming or getting generated
+Variety-different forms of data
+Volume-The amount of data or simply the size.
+
+3. Horizontal Scaling and Vertical Scaling
+Hoizontal Scaling-Horizontal scaling means the scaling done by adding more machines.
+wheras vertical scaling means adding more resources such as ram,hard disk to the existing machine.
+
+4. Need and Working of Hadoop
+Need of hadoop-Hadoop comes in handy where we have to solve problems or analyze enormous amounts of data in finite amount of time.
+Working of hadoop-Using Hdfs we can write data on the server and can be used later on.the data is replicated on to all the nodes and secondly 
+the main task is divided into different tasks and then divided among different nodes for processing.
